@@ -28,12 +28,14 @@ playing-cards/
 │── deck_test.go # Unit tests
 │── README.md # Project documentation
 
-##Learning Goals
------This project was built to practice:
+---
 
--Working with slices and custom types
--Methods with receivers in Go
--File operations (read/write)
--Error handling
--Using math/rand for shuffling
--Writing unit tests
+## Learning Goals
+-- This project was built to practice:
+
+- Working with slices and custom types
+- Methods with receivers in Go
+- File operations (read/write)
+- Error handling
+- Using math/rand for shuffling
+- Writing unit tests
